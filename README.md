@@ -1,7 +1,7 @@
 # Roger G. Barry Glaciology Collection Expedition Notebooks and Reports 1903-1975
 ## Description
 
-Permanent address to digital collection: []().<br /> 
+Permanent address to digital collection: [https://doi.org/10.25810/gbkk-bj35](https://doi.org/10.25810/gbkk-bj35).<br /> 
 Please use the same link when sharing or citing the collection.
 ## Metadata
 
